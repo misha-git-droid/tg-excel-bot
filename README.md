@@ -9,7 +9,14 @@ Project Purpose
 - Learn how to parse the received data
 
 Tech Stack
--
+- org.eclipse.parsson + jakarta.json
+- telegrambots-springboot-longpolling-starter + telegrambots-client
+- poi-ooxml
+- lombok
+- spring-boot-starter + spring-boot-starter-test
+
+Installation & Run
+1. Clone the repo 
 
 
 

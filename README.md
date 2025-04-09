@@ -16,7 +16,9 @@ Tech Stack
 - spring-boot-starter + spring-boot-starter-test
 
 Installation & Run
-1. Clone the repo 
+1. Clone the repo https://github.com/misha-git-droid/tg-excel-bot.git
+2. Build with Maven mvn clean package
+3.  
 
 
 

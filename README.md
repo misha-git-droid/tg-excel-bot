@@ -3,9 +3,15 @@ Telegram bot for adding data to excel spreadsheets
 A telegram bot that interacts with yandex.Disk after successful payment and makes changes to the file there.
 
 Project Purpose
-This project was developed to: 
 - Telegram bot for paying for services is a great tool for business
-- 
+- Explore working with the Yandex Api and repeat working with the Telegram Api
+- Study the payment process
+- Learn how to parse the received data
+
+Tech Stack
+-
+
+
 
 Ключевые технологии: Spring Boot, Spring Framework, jakarta.json-api, java.net, telegrambots-longpolling, Apache Poi.
 Прим. Использование некоторых технологий необосновано, но в рамках учебного проекта допустимо :) Spring Boot, Spring Framework, java.net, longpolling.
